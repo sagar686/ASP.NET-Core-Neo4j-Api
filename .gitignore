@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NetCoreNeo4jApi/.vs/NetCoreNeo4jApi
+/NetCoreNeo4jApi/NetCoreNeo4jApi/obj
+/NetCoreNeo4jApi/NetCoreNeo4jApi/bin/Debug/net5.0
